@@ -1,0 +1,80 @@
+body
+{
+	background-image: url(https://images.unsplash.com/photo-1514933651103-005eec06c04b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80);
+	background-o
+
+
+
+
+}
+
+.jumbotron
+{
+	color: #2c3e50;
+	background:#ecf0f1;
+	opacity:0.9;
+	height:300px;
+}
+.row
+{
+	opacity:0.8;
+}
+img
+{
+	opacity:0.9;
+}
+hr {
+  display: dotted;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  opacity:0.2;
+}
+.thumbnail
+{
+	background:#DDFB91;
+}
+.left
+{
+	display: inline-block;
+	float: left;
+	
+}
+.right
+{
+	display: inline-block;
+	float: right;
+	
+}
+.center
+{
+	text-align: center;
+}
+.item
+{
+	
+	padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    border:  0px 0px 0px 0px;
+}
+.price
+{
+	
+}
+p
+{
+	font-family: 'Caladea', serif;
+	font-size: medium;
+}
+ul{
+    display: inline-block;
+    font-family: 'Caladea', serif;
+    font-size: large;
+}
+h4
+{
+	font-family: 'Caladea', serif;
+	font-size: x-large;
