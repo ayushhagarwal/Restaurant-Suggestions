@@ -1,24 +1,18 @@
-# Restaurant Suggestions
+## Restaurant Suggestions
 
-A beautiful place to find the best restaurants and directly order food from all the restaurants,or discover thier menu.
+A beautiful place to find the best restaurants and directly order food from all the restaurants,or discover thier menu. This is only a static web page with only fron end development involved in it.
+<br>
+The link to this project is- _https://restaurantsuggestions.netlify.com/_
 
-## Deployment
+
+### Deployment
 
 The project is a static front end page and it is best to use Netlify.com to deploy the project.
-Just login to netlify.com using your github account,sync your repo then deploy it and modify the domain name.
+<br>
+To deploy your own static pages,Just login to netlify.com using your github account,sync your repo then deploy it and modify the domain name.
 
-The link to this project is- https://restaurantsuggestions.netlify.com/ 
-
-## Built With
+### Tech Stack
 
 * HTML 5
 * CSS
 * BOOTSTRAP 3
-
-## Authors
-
-* **Ayus Kumar Agarwal** - *Initial work* - [ayushhagarwal]https://github.com/ayushhagarwal)
-
-## Acknowledgments
-
-* I woul like to thank Colt Steele whose Web Development Course gave me enough motivation to come with my own webpage.
