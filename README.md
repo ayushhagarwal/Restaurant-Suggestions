@@ -9,7 +9,8 @@ The link to this project is- _https://restaurantsuggestions.netlify.com/_
 
 The project is a static front end page and it is best to use Netlify.com to deploy the project.
 <br>
-To deploy your own static pages,Just login to netlify.com using your github account,sync your repo then deploy it and modify the domain name.
+To deploy your own static pages,Just login to netlify.com using your github account,sync your repo then deploy it.
+Also to run the project locally just run the index.html file in your system's browser.
 
 ### Tech Stack
 
